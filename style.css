@@ -1,0 +1,43 @@
+#a {
+    border: 5px solid red;
+    width: 200px;
+    height: 300px; 
+    position:absolute ;
+    
+    
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 4%, rgba(36,5,5,1) 100%);
+    
+}
+#b {
+    border: 6px solid pink;
+    width: 200px;
+    height: 160px;
+    position: absolute;
+    margin-top: 311px;
+    
+}
+#c { 
+    border: 7px solid green;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    margin-left: 211px;
+
+}
+#d {
+    border: 8px solid yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 213px;
+    margin-top: 116px;
+}
+#e {
+    border: 9px solid brown;
+    width: 200px;
+    height: 130px;
+    position: absolute;
+    margin-top: 336px;
+    margin-left: 213px;
+}
